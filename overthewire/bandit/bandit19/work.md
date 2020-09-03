@@ -1,4 +1,5 @@
 Going high right!
+![Bandit19](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit19/level19-%3Elevel20.png)
 
 Let's see what we have to do:
 ```
