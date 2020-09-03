@@ -1,6 +1,7 @@
 This is a really cool challenge.
-Let's see what we have to do here!
+![Bandit6](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit6/level6-%3Elevel7.png)
 
+Let's see what we have to do here!
 ```
 bandit6@bandit:~$ ls
 bandit6@bandit:~$ ls -al
