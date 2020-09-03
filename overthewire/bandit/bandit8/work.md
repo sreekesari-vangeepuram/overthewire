@@ -1,4 +1,5 @@
 Very simple challenge!
+![Bandit8](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit8/level8-%3Elevel9.png)
 
 So, what should we do here?
 Let's see what the challenge statement says:
