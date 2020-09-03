@@ -1,5 +1,5 @@
 This level is also quite easy!
-![Bandit1](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit0/level1-%3Elevel2.png)
+![Bandit1](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit1/level1-%3Elevel2.png)
 
 By following the `Level Goal` of Bandit Level 1 → Level 2;
 we got the password of user[bandit2] as shown below.
