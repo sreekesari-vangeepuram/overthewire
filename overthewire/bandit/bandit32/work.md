@@ -1,4 +1,5 @@
 Shell we have an argument?
+![Bandit32](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit32/level32-%3Elevel33.png)
 
 Let's see what we can do, here:
 ```
