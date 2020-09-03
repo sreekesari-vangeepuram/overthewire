@@ -1,4 +1,5 @@
 I think you are GITTING better!
+![Bandit29](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit29/level29-%3Elevel30.png)
 
 Let's see what we can git, here:
 ```
