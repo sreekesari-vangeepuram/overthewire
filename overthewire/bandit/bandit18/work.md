@@ -1,4 +1,5 @@
 Interesting level, right!
+![Bandit18](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit18/level18-%3Elevel19.png)
 
 If you didn't read the documentation of the SSH protocal cli-tool, read it once again!
 We have an option `<tag -t>`, which works as:
