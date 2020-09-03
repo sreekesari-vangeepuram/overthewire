@@ -1,4 +1,5 @@
 This challenge is very BASHing!
+![Bandit22](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit22/level22-%3Elevel23.png)
 
 Let's see what we can do here;
 ```
