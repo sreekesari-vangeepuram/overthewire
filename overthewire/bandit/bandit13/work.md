@@ -1,5 +1,7 @@
 This is pretty easy right!
+![Bandit13](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit13/level13-%3Elevel14.png)
 
+Let's see:
 ```
 bandit13@bandit:~$ ls
 sshkey.private
