@@ -4,7 +4,7 @@
 
 #### Don't waste your time if you're here to just copy-paste the passwords! They can be found [here](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/passwords.dat).
 
-## Please try the challenge first, if you are unable to solve it; don't feel bad about yoourself. That challenge might require some familiarity with concepts which you might have not come across.
+## Please try the challenge first, if you are unable to solve it; don't feel bad about yourself. That challenge might require some familiarity with concepts which you might have not come across.
 
 ##### Explanations on each challenge can be found here below:
 
