@@ -1,6 +1,7 @@
 It seems this is gonna be something interesting!
-Let's see.
+![Bandit10](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit10/level10-%3Elevel11.png)
 
+Let's see.
 ```
 bandit10@bandit:~$ ls
 data.txt
