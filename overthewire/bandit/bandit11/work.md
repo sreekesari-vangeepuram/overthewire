@@ -1,6 +1,7 @@
 Oh my god! It seems level by level it's getting simpler...
-So, what's this is about? Let's see;
+![Bandit11](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit11/level11-%3Elevel12.png)
 
+So, what's this is about? Let's see;
 ```
 bandit11@bandit:~$ ls
 data.txt
