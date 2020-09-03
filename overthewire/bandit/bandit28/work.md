@@ -1,4 +1,5 @@
 This is nothing but patchng!
+![Bandit28](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit28/level28-%3Elevel29.png)
 
 Let's unpatch the patch, LOL:
 ```
