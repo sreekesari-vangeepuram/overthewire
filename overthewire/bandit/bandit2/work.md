@@ -1,5 +1,7 @@
 Another simple challenge!
+![Bandit2](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit2/level2-%3Elevel3.png)
 
+Let's see what we can do:
 ```
 bandit2@bandit:~$ ls
 spaces in this filename
