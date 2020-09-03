@@ -1,4 +1,5 @@
 Simple VI stuff!
+![Bandit26](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit26/level26-%3Elevel27.png)
 
 Let's see what we have to do:
 ```
