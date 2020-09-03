@@ -1,4 +1,5 @@
 Hey, we gotta git-it!
+![Bandit27](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit27/level27-%3Elevel28.png)
 
 Here we go:
 ```
