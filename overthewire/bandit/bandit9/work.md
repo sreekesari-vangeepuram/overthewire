@@ -1,6 +1,7 @@
 Ooh...this challenge seems like interesting!
-Let's see what we'll have to do here.
+![Bandit9](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit9/level9-%3Elevel10.png)
 
+Let's see what we'll have to do here.
 ```
 bandit9@bandit:~$ ls
 data.txt
