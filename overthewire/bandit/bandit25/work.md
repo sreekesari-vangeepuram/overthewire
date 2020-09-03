@@ -1,4 +1,5 @@
 Tricky challenge, right!
+![Bandit25](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit25/level25-%3Elevel26.png)
 
 Let's see what we can do, here:
 ```
