@@ -1,4 +1,6 @@
 This is a very simple challenge, which makes us feel a bit tough!
+![Bandit23](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit23/level23-%3Elevel24.png)
+
 If you are familiar with bash-scripting it's just a piece-of-cake for you!
 Or else, learn bash-scripting from [Ryan's tutorials](https://ryanstutorials.net/bash-scripting-tutorial/). 
 Also do you know what is a cron-job?
