@@ -1,4 +1,5 @@
 Maybe this is is just a refference to something?
+![Bandit30](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit30/level30-%3Elevel31.png)
 
 Let's see:
 ```
