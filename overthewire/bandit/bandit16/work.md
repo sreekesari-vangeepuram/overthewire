@@ -1,3 +1,7 @@
+This is pretty clear!
+![Bandit16](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit16/level16-%3Elevel17.png)
+
+Let's do it:
 ```
 bandit16@bandit:~$ nmap localhost -p 31000-32000
 
