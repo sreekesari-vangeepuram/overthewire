@@ -1,5 +1,7 @@
 Let's work on pushing things...
+![Bandit31](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit31/level31-%3Elevel32.png)
 
+Let's go:
 ```
 bandit31@bandit:~$ mkdir /tmp/b31-git && cd /tmp/b31-git
 bandit31@bandit:/tmp/b31-git$ git clone ssh://bandit31-git@localhost/home/bandit31-git/repo
