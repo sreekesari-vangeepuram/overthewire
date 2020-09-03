@@ -1,4 +1,6 @@
 Another simple challenge!
+![Bandit3](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit3/level3-%3Elevel4.png)
+
 By following the `Level Goal` of Bandit Level 3 → Level 4;
 we got the password of user[bandit4] as shown below.
 
