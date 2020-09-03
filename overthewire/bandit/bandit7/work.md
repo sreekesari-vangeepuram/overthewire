@@ -822,7 +822,7 @@ bandit7@bandit:~$
 OOPS! It seems this file has a million of lines...
 
 Let's read the challenge statement again.
-`The password for the next level is stored in the file` <h3>data.txt</h3> `next to the word` <h3>millionth</h3>.
+`The password for the next level is stored in the file` data.txt`next to the word` millionth.
 Gotcha! So;
 ```
 bandit7@bandit:~$ cat data.txt | grep millionth
