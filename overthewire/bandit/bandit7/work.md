@@ -1,5 +1,7 @@
-Let's see how tough is this! Shall we?
+This seems to be a bit tricky, right!
+![Bandit7](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit7/level7-%3Elevel8.png)
 
+Let's see how tough is this! Shall we?
 ```
 bandit7@bandit:~$ ls
 data.txt
@@ -815,11 +817,12 @@ completes	Dj4WuzSlOwNtbXDRMhro7TKJ8y4BK5Ay
 narcissuses	Ylgwg7RAS4YYeZyr6POc2ItBmhZdQmJG
 retouched	PGryuJT83sJwvmWxNXRTUOcE3uMXz9mb
 whirl	B6uHaSHT1MSySAallJJuxgr7LcUXIX19^C
+bandit7@bandit:~$
 ```
 OOPS! It seems this file has a million of lines...
 
 Let's read the challenge statement again.
-`The password for the next level is stored in the file <h3>data.txt</h3> next to the word <h3>millionth</h3>.`
+`The password for the next level is stored in the file` <h3>data.txt</h3> `next to the word` <h3>millionth</h3>.
 Gotcha! So;
 ```
 bandit7@bandit:~$ cat data.txt | grep millionth
