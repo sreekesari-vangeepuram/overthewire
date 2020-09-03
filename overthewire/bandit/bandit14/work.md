@@ -1,6 +1,9 @@
 Is this a challenge?
+![Bandit14](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit14/level14-%3Elevel15.png)
+
 LOL! It's damn easy, if you are familiar with ssh key-exchange algorithms.
 
+So, let's do it:
 ```
 bandit14@bandit:~$ ssh -4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e bandit14@localhost -p 30000
 Bad tun device 'cYUJFw0k0XLShlDzztnTBHiqxU3b3e'
