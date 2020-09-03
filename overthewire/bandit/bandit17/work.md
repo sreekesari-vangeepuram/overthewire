@@ -1,4 +1,6 @@
 Another simple challenge.
+![Bandit17](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit17/level17-%3Elevel18.png)
+
 
 First let's login to the remote-machine with the private-key, by saving it in our local-machine with read-only permissions for owner-only!
 ```
