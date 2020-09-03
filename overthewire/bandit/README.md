@@ -41,4 +41,5 @@
 * [Bandit30](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit30/work.md)
 * [Bandit31](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit31/work.md)
 * [Bandit32](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit32/work.md)
-* Bandit33 -> Nothing to work here!
+* [Bandit33](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit33/level33-%3Elevel34.png)
+-> Nothing to work here!
