@@ -1,4 +1,5 @@
 Another simple challenge!
+![Bandit15](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit15/level15-%3Elevel16.png)
 
 Let's see what we should do here!
 ```
