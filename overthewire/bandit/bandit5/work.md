@@ -1,4 +1,6 @@
 The complexity of level by level is gradually increasing...
+![Bandit5](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit5/level5-%3Elevel6.png)
+
 These are design by very cool brains! It's really developing beginners like us.
 Let's see what we have to do here!
 
