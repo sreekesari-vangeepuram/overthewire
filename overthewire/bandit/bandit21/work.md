@@ -1,4 +1,5 @@
 What a simple challenge, right!
+![Bandit21](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit21/level21-%3Elevel22.png)
 
 Let's see how to get the password of the user `bandit22`:
 ```
