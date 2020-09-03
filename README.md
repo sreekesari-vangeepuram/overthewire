@@ -1,5 +1,6 @@
 # overthewire
 This repository consists of writeups on overthewire wargames.
+![overthewire-main-page](https://github.com/sreekesari-vangeepuram/overthewire/raw/master/overthewire/main_page.png)
 
 Presently the writeups on [Bandit](https://overthewire.org/wargames/bandit/) are available.
 Other wargames will also be realeased soon...
