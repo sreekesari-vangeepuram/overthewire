@@ -1,4 +1,6 @@
 This challenge is really challenging, right!
+![Bandit20](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit20/level20-%3Elevel21.png)
+
 Well of course, atleast for me...
 
 Let's start working by opening two terminal and piping to the remote-machine.
