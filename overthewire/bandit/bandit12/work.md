@@ -1,4 +1,6 @@
 This thing is really obscure right!
+![Bandit12](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit12/level12-%3Elevel13.png)
+
 But no worries...
 
 Let's try now.
