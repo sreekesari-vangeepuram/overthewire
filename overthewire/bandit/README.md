@@ -6,6 +6,8 @@
 
 ## Please try the challenge first, if you are unable to solve it; don't feel bad about yourself. That challenge might require some familiarity with concepts which you might have not come across.
 
+##### To connect the remote-machine I wrote a simple shell-script: [connect.sh](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/connect.sh). Also read about it [here](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/connecting.md).
+
 ##### Explanations on each challenge can be found here below:
 
 * [Bandit0](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/bandit0/work.md)
