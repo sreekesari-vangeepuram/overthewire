@@ -88,7 +88,9 @@ bandit30@bandit:/tmp/b30-git/repo/.git$ git show f17132340e8ee6c159e0a4a6bc6f80e
 bandit30@bandit:/tmp/b30-git/repo/.git$
 ```
 Here we go...the secret!
+
 Since git uses it's algorithm to simply pack things-up with it's algorithm...it's obvious.
+
 You can see the more about this packing feature provided by git [here](https://git-scm.com/docs/pack-heuristics).
 
 Hope you've learnt something new from this [if you don't know this before/didn't strike to you during the start].
