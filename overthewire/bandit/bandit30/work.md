@@ -91,7 +91,7 @@ Here we go...the secret!
 
 Since git uses it's algorithm to simply pack things-up with it's algorithm...it's obvious.
 
-You can see the more about this packing feature provided by git [here](https://git-scm.com/docs/pack-heuristics).
+You can see more about this packing feature provided by git [here](https://git-scm.com/docs/pack-heuristics).
 
 Hope you've learnt something new from this [if you don't know this before/didn't strike to you during the start].
 
