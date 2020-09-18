@@ -89,7 +89,7 @@ bandit30@bandit:/tmp/b30-git/repo/.git$
 ```
 Here we go...the secret!
 
-Since git uses it's algorithm to simply pack things-up with it's algorithm...it's obvious.
+Since git simply pack things-up with it's algorithm...it's obvious.
 
 You can see more about this packing feature provided by git [here](https://git-scm.com/docs/pack-heuristics).
 
