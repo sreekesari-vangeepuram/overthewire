@@ -14,7 +14,8 @@ ssh bandit${1}@bandit.labs.overthewire.org -p 2220
 ```
 
 DAMN! It's cool right? We don't have to type this whole thing again and again as:
-While logging into bandit0: `ssh bandit0@bandit.labs.overthewire.org -p 2220`;
+While logging into bandit0: 
+`ssh bandit0@bandit.labs.overthewire.org -p 2220`
 again for bandit1 as ssh bandit1@bandit.labs.overthewire.org -p 2220;
 .
 .
