@@ -78,7 +78,7 @@ Since, we have the hint from the challenge statement as:
 Rotated by 13 positions?
 
 ROT-13 is a Substitution Cipher which is very common in Cryptology.
-We shift the positions of each character is our test[plaintext] to form the cipher-text.
+We shift the positions of each character is our text[plaintext] to form the cipher-text.
 
 Checkout my repo at: `https://github.com/sreekesari-vangeepuram/ROT13-Substitution-Cipher`
 This is a simple Python Application, which encrypts & decrypts the data in a file with ROT13-Cipher.
