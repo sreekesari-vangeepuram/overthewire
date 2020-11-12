@@ -26,7 +26,7 @@ bandit14@bandit:~$
 YAY, we got it!
 Now; what the hell is `nc`?
 
-Well netcat[nc] is;
+Well netcat[nc] is;  
 `Netcat is a simple Unix utility which reads and writes data across network connections, using TCP or UDP protocol.`
 
 Hope you've learnt something new from this [if you don't know this before/didn't strike to you during the start].
