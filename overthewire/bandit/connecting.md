@@ -14,18 +14,17 @@ ssh bandit${1}@bandit.labs.overthewire.org -p 2220
 ```
 
 DAMN! It's cool right? </br>
-We don't have to type this whole thing again and again as:
-While logging into bandit0: </br>
-`ssh bandit0@bandit.labs.overthewire.org -p 2220`</br>
+We don't have to type this whole thing again and again as:<br/>
+While logging into bandit0: <br/>
+`ssh bandit0@bandit.labs.overthewire.org -p 2220`<br/>
 >> or
-for bandit1 as `ssh bandit1@bandit.labs.overthewire.org -p 2220` </br>
-. </br>
-. </br>
-. </br>
+for bandit1 as `ssh bandit1@bandit.labs.overthewire.org -p 2220` <br/>
+. <br/>
+. <br/>
+. <br/>
 until for bandit33 as `ssh bandit33@bandit.labs.overthewire.org -p 2220`.
 
-Everytime we just have to simply execute our script as: `./connect.sh <number-at-the-end-of-username>`. </br>
-Isn't this COOL! Ofcourse it is...
+Everytime we just have to simply execute our script as: `./connect.sh <number-at-the-end-of-username>`. <br/>
+Isn't this COOL! Of course it is...<br/>
 
 Let's start working, now.
-
