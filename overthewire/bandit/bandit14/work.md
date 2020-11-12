@@ -9,7 +9,7 @@ bandit14@bandit:~$ ssh -4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e bandit14@localhost -p 3
 Bad tun device 'cYUJFw0k0XLShlDzztnTBHiqxU3b3e'
 bandit14@bandit:~$
 ```
-Oh shit we we should submit password of bandit 14 to port 30000, not coonecting to that port.
+Oh shit we should submit password of bandit 14 to port 30000, not coonecting to that port.
 It is simply submitting us the password of bandit14 with the first two-letters sliced! Really a "Bad tun device" LOL...
 
 Read about SSH protocal at: `https://www.hostinger.in/tutorials/ssh-tutorial-how-does-ssh-work`
