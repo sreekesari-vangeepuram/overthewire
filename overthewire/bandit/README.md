@@ -2,7 +2,7 @@
 
 #### To go through the challenge-statements, there is an image with `.png` format in each of the directories.
 
-#### Don't waste your time if you're here to just copy-paste the passwords! They can be found [here](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/passwords.dat).
+#### Don't waste your time if you're here to just copy-paste the passwords! You can find them [here](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/passwords.dat).
 
 ## Please try the challenge first, if you are unable to solve it; don't feel bad about yourself. That challenge might require some familiarity with concepts which you might have not come across.
 
