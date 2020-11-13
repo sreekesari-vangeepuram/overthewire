@@ -80,8 +80,6 @@ bzcmp         bzegrep       bzfgrep       bzip2         bzless
 bandit12@bandit:/tmp/0x7001$ bzip2 -d data2.bz2 
 bandit12@bandit:/tmp/0x7001$ file data
 data2         data.hexdump  
-bandit12@bandit:/tmp/0x7001$ file data
-data2         data.hexdump  
 bandit12@bandit:/tmp/0x7001$ file data2
 data2: gzip compressed data, was "data4.bin", last modified: Thu May  7 18:14:30 2020, max compression, from Unix
 bandit12@bandit:/tmp/0x7001$ mv data2 data2.gz
@@ -135,7 +133,7 @@ Okay but what're those commands; `hexdump`, `xxd`, `file`, `gunzip`, `bzip2`, `t
 To explain this challenge simply, it's goal is to let us know more about file [de]compressions!
 
 The file in the home-directory `/home/bandit12/data/txt` consists the hexdump of the an anonymous file.
-Then what is hexdump, well there's a better place to learn about that and it's : `https://en.wikipedia.org/wiki/Hex_dump`.
+Then what is hexdump, well there's a better place to learn about that and it's : [https://en.wikipedia.org/wiki/Hex_dump](https://en.wikipedia.org/wiki/Hex_dump).
 
 `xxd` is a famous tool mainly to reverse the hexdump into binary format with the option `<tag -r>` to revert it's state from hexdump -> binary.
 
