@@ -45,7 +45,7 @@ Right-after we've checked who's the user here.
 It's shocking that, we've tried to enter the machine as `bandit32`.
 But now we are `bandit33`.
 
-So, that's it! This challenges aim is to let us aware about `command-line arguments`.
+So, that's it! This challenge's aim is to let us aware about `command-line arguments`.
 Since the eligible group to read the file `/etc/bandit_pass/bandit33` is `bandit33`, we can simply read it.
 COOL, right!
 
