@@ -1,6 +1,6 @@
-#### To understand the aim and workflow to tackle different goals in all the challenges, there is a file called `work.md` in each level-directory.
+#### To understand the aim and workflow to tackle different goals in all the challenges, there is a file called `work.md` in each level's directory.
 
-#### To go through the challenge-statements, there is an image with `.png` format in each of the directories.
+#### To go through the challenge-statements, there is an image with `PNG` format in each of the directories.
 
 #### Don't waste your time if you're here to just copy-paste the passwords! You can find them [here](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/overthewire/bandit/passwords.dat).
 
