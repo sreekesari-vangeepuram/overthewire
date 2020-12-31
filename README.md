@@ -8,7 +8,7 @@ Check bandit-writeups [here](https://github.com/sreekesari-vangeepuram/overthewi
 Writeups on other wargames [Natas, Leviathan, etc.] will be realeased soon!
 
 ### License
-Released under [MIT license](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/LICENSE)
+Release Under [MIT license](https://github.com/sreekesari-vangeepuram/overthewire/blob/master/LICENSE)
 
 ### Author:
 [1.1]: http://i.imgur.com/tXSoThF.png (sreekesari)
