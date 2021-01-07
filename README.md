@@ -13,4 +13,4 @@ Release Under [MIT license](https://github.com/sreekesari-vangeepuram/overthewir
 ### Author:
 [1.1]: http://i.imgur.com/tXSoThF.png (sreekesari)
 [1]: https://twitter.com/sreekesari
-[![alt text][1.1]][1]
+[![alt text][1.1]][1] [@sreekesari](https://twitter.com/sreekesari)
